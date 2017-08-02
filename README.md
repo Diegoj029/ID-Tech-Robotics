@@ -1,5 +1,3 @@
-# c-
-my c++ codes
 #include<iostream>
 #include<string>
 
